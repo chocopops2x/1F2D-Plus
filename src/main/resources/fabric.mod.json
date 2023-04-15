@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "addon-template",
   "version": "${version}",
-  "name": "Addon Template",
+  "name": "1F2D+",
   "description": "An addon template for the Meteor addons.",
   "authors": [
-    "seasnail"
+    "chocopops"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"

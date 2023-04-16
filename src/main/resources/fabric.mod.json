@@ -5,7 +5,8 @@
   "name": "1F2D+",
   "description": "An addon template for the Meteor addons.",
   "authors": [
-    "chocopops"
+    "chocopops",
+    "Glorman"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
